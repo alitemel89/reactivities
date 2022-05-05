@@ -1,0 +1,15 @@
+/home/ali/Documents/GitHub/reactivities/Persistance/bin/Debug/net6.0/Persistance.deps.json
+/home/ali/Documents/GitHub/reactivities/Persistance/bin/Debug/net6.0/Persistance.dll
+/home/ali/Documents/GitHub/reactivities/Persistance/bin/Debug/net6.0/Persistance.pdb
+/home/ali/Documents/GitHub/reactivities/Persistance/bin/Debug/net6.0/Domain.dll
+/home/ali/Documents/GitHub/reactivities/Persistance/bin/Debug/net6.0/Domain.pdb
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.csproj.AssemblyReference.cache
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.AssemblyInfoInputs.cache
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.AssemblyInfo.cs
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.csproj.CoreCompileInputs.cache
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.csproj.CopyComplete
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.dll
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/refint/Persistance.dll
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.pdb
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/ref/Persistance.dll

@@ -1,0 +1,17 @@
+/home/ali/Documents/GitHub/reactivities/Application/bin/Debug/net6.0/Application.deps.json
+/home/ali/Documents/GitHub/reactivities/Application/bin/Debug/net6.0/Application.dll
+/home/ali/Documents/GitHub/reactivities/Application/bin/Debug/net6.0/Application.pdb
+/home/ali/Documents/GitHub/reactivities/Application/bin/Debug/net6.0/Domain.dll
+/home/ali/Documents/GitHub/reactivities/Application/bin/Debug/net6.0/Persistance.dll
+/home/ali/Documents/GitHub/reactivities/Application/bin/Debug/net6.0/Persistance.pdb
+/home/ali/Documents/GitHub/reactivities/Application/bin/Debug/net6.0/Domain.pdb
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.dll
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/refint/Application.dll
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/Application.pdb
+/home/ali/Documents/GitHub/reactivities/Application/obj/Debug/net6.0/ref/Application.dll

@@ -1,0 +1,12 @@
+/home/ali/Documents/GitHub/reactivities/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/ali/Documents/GitHub/reactivities/Domain/bin/Debug/net6.0/Domain.dll
+/home/ali/Documents/GitHub/reactivities/Domain/bin/Debug/net6.0/Domain.pdb
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/Domain.dll
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/refint/Domain.dll
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/Domain.pdb
+/home/ali/Documents/GitHub/reactivities/Domain/obj/Debug/net6.0/ref/Domain.dll
