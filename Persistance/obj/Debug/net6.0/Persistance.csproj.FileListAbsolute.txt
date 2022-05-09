@@ -13,3 +13,5 @@
 /home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/refint/Persistance.dll
 /home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.pdb
 /home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/ref/Persistance.dll
+/home/ali/Documents/GitHub/reactivities/Persistance/bin/Debug/net6.0/Persistance.runtimeconfig.json
+/home/ali/Documents/GitHub/reactivities/Persistance/obj/Debug/net6.0/Persistance.genruntimeconfig.cache

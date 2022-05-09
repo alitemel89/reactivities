@@ -214,6 +214,18 @@
           }
         }
       },
+      "Microsoft.EntityFrameworkCore.SqlServer/6.0.4": {
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "4.1.0",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
+            "assemblyVersion": "6.0.4.0",
+            "fileVersion": "6.0.422.16106"
+          }
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
       "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
         "dependencies": {
@@ -783,7 +795,8 @@
       "Persistance/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.4"
+          "Microsoft.EntityFrameworkCore": "6.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.4"
         },
         "runtime": {
           "Persistance.dll": {}
@@ -901,6 +914,13 @@
       "sha512": "sha512-yO6XZA8FQkBLiTtClesWClL3Z1QEqT9vRoDDf/IOPkmsjzjedg2GzkNCauRGk/XnsZZ1qcz55TuJBO+1jNDIaA==",
       "path": "microsoft.entityframeworkcore.sqlite.core/6.0.4",
       "hashPath": "microsoft.entityframeworkcore.sqlite.core.6.0.4.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.SqlServer/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rMJcVbMxrXmufywA1wYUMqLuxS7PvoPVxR8juUGwJcBdQ31rKyDBxII3i5B2JrgSgWXGiy8V7n9acxKRTX03fw==",
+      "path": "microsoft.entityframeworkcore.sqlserver/6.0.4",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.6.0.4.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "type": "package",
