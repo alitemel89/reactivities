@@ -90,3 +90,6 @@
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Humanizer.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/MediatR.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/MediatR.Contracts.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

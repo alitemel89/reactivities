@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xTCSX/OmrDPrR/BfOAZrWcj+rgQJTK7CRaYZMVEPKE9Eu06ugelLrtDXfdPP63M0MU9XEHMa/ueR5YECpDeZcw==",
+  "dgSpecHash": "MSfOnDoZKvPGghF75Y2LLs2P0WZm8UFXVqSnP2Oa4wU6rV38jMv5R8dTnKxODTN8vkDwiyHijbrwqT6k6vhM9w==",
   "success": true,
   "projectFilePath": "/home/ali/Documents/GitHub/reactivities/Domain/Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ali/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/ali/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

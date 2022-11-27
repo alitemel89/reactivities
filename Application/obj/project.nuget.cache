@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GhwfQtSsPOKhe16RwhT1yA2qwabjO+GH42z1KdxPTs7GipAwVh9/ubfyofv1h6uoir7YHMpOi+PxttznROH0CQ==",
+  "dgSpecHash": "JyOqfdqiAA6IncDATUZ+9BALXTj41C3fZOUjK2ckks9Nmbci/5Xnr4Up2IWlnZ5IG+lD6zH6Uy+G/mh2zE6Ybg==",
   "success": true,
   "projectFilePath": "/home/ali/Documents/GitHub/reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/home/ali/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/ali/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

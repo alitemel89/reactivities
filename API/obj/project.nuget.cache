@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NVWeSRx1ztewy95eH+xD8ywXS7EOJnQYT4sf3lHsIJe89J99KS9tSahGihbfcQI7rAQwIE4Xl3kuCRGhg6Jr1g==",
+  "dgSpecHash": "cvwsIuqklag3VEH/0rsmORdhsHKFbefsxIB4ek4paesD/VvzpGbIa32Ll5k5prLZIKBFqF40UhNv/RwuVQhdiw==",
   "success": true,
   "projectFilePath": "/home/ali/Documents/GitHub/reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/home/ali/.nuget/packages/azure.core/1.6.0/azure.core.1.6.0.nupkg.sha512",
     "/home/ali/.nuget/packages/azure.identity/1.3.0/azure.identity.1.3.0.nupkg.sha512",
     "/home/ali/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/ali/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/ali/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.data.sqlclient/4.1.0/microsoft.data.sqlclient.4.1.0.nupkg.sha512",
