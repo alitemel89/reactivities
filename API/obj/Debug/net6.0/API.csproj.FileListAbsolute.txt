@@ -93,3 +93,5 @@
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/MediatR.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/MediatR.Contracts.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/AutoMapper.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

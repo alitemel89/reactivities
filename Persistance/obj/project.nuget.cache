@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HS2BgY7njtaf/yEGObb8z0OptVQD1ZrBavr0voTajLzAEGqzLYY2kKEz/LigeyeDIebE3z3IrA0Pr2lp0kmZIw==",
+  "dgSpecHash": "+xtV2cegwWcyX+nu6RM+GkRiXnW8s2XM8URX5zHUN5I3bAxsA7bS/Uy8POceTCrk129AvHE1j7w54yWTp1QdMg==",
   "success": true,
   "projectFilePath": "/home/ali/Documents/GitHub/reactivities/Persistance/Persistance.csproj",
   "expectedPackageFiles": [
+    "/home/ali/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "/home/ali/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.entityframeworkcore/6.0.4/microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
