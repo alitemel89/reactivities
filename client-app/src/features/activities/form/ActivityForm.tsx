@@ -7,7 +7,6 @@ const ActivityForm = () => {
   const { activityStore } = useStore();
   const {
     selectedActivity,
-    closeForm,
     createActivity,
     updateActivity,
     loading,
@@ -87,7 +86,6 @@ const ActivityForm = () => {
           floated="right"
           type="button"
           content="Cancel"
-          onClick={closeForm}
         />
       </Form>
     </Segment>

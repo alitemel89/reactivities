@@ -7,8 +7,6 @@ const ActivityDetails = () => {
   const { activityStore } = useStore();
   const {
     selectedActivity: activity,
-    cancelSelectedActivity,
-    openForm,
   } = activityStore;
 
   if (!activity) return <LoadingComponent />;
@@ -25,10 +23,10 @@ const ActivityDetails = () => {
       </Card.Content>
       <Card.Content extra>
         <Button.Group widths="2">
-          <Button basic color="blue" onClick={() => openForm(activity.id)}>
+          <Button basic color="blue">
             Edit
           </Button>
-          <Button onClick={cancelSelectedActivity} basic color="grey">
+          <Button basic color="grey">
             Cancel
           </Button>
         </Button.Group>
