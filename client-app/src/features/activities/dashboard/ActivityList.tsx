@@ -22,7 +22,7 @@ const ActivityList = () => {
       <Item.Group divided>
         {activitiesByDate.map((activity) => (
           <Item key={activity.id}>
-            <Item.Content as="a">
+            <Item.Content>
               <Item.Header>{activity.title}</Item.Header>
               <Item.Meta>{activity.date}</Item.Meta>
               <Item.Description>
