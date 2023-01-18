@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "NA0KW4D60b1H6y7wOL+tdj/1qlzU+zAs/SRg9eFNvNPdhqUlEcuc5YydbdHsLfy0fcl4I/Y1CZj3TBsHNIVYfQ==",
+  "dgSpecHash": "3Gd2gqLgCKB/l1UE6FA3UBMETmEeTBWGvPNbVlznS/cRvMdh1EAAAyDU6HtH8cwmWUJXT5nXwv+HOZ86OzeUFg==",
   "success": true,
   "projectFilePath": "/home/ali/Documents/GitHub/reactivities/Persistance/Persistance.csproj",
   "expectedPackageFiles": [
     "/home/ali/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/fluentvalidation/11.4.0/fluentvalidation.11.4.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/fluentvalidation.aspnetcore/11.2.2/fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "/home/ali/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.4.0/fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "/home/ali/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",

@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "AE8VHE7wuUy2MTcgb92RzIdyn0m6nKrQK5g1GUsmz90AVKqXLT/cA+/aNX5kqr8ihpaMhzX8mMwwa6cvUEAP8A==",
+  "dgSpecHash": "Fw4LyDbA9LAmbN3C18kgPYg13JifT0XgM6ver52iYbwCDQk2as3cEa/r+G8P6JsQ1/v9iMSLyBXjCoKK9SRM9Q==",
   "success": true,
   "projectFilePath": "/home/ali/Documents/GitHub/reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
     "/home/ali/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/fluentvalidation/11.4.0/fluentvalidation.11.4.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/fluentvalidation.aspnetcore/11.2.2/fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "/home/ali/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.4.0/fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

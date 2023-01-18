@@ -95,3 +95,6 @@
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/AutoMapper.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/FluentValidation.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
