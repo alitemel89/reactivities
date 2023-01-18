@@ -36,7 +36,7 @@ const ActivityListItem = ({ activity }: Props) => {
         </Item.Group>
       </Segment>
 
-      <Segment inverted>
+      <Segment>
         <Grid columns={2}>
           <Grid.Column>
             <span>
