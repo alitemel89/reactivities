@@ -1,7 +1,8 @@
-import React from "react";
+import { format } from "date-fns";
 import { Link } from "react-router-dom";
 import { Button, Grid, Icon, Item, Segment } from "semantic-ui-react";
 import { Activity } from "../../../app/models/activity";
+
 
 interface Props {
   activity: Activity;
@@ -28,7 +29,7 @@ const ActivityListItem = ({ activity }: Props) => {
         <Grid columns={2}>
           <Grid.Column>
             <span>
-              <Icon name="clock" color="teal"/> {activity.date}
+              <Icon name="clock" color="teal"/> {format(activity.date!, 'dd MMMM yyyy h:mm aa')}
             </span>
           </Grid.Column>
           <Grid.Column>
