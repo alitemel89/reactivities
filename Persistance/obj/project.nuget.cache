@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3Gd2gqLgCKB/l1UE6FA3UBMETmEeTBWGvPNbVlznS/cRvMdh1EAAAyDU6HtH8cwmWUJXT5nXwv+HOZ86OzeUFg==",
+  "dgSpecHash": "BmM1+8ZnNJ+aLvjIYCuOWlrwS8IX+xF001tv4FEVsLkx3Ugy4Q6WINDTMrlLpo0Podk7vgHPUKY0TmsBxTSg7A==",
   "success": true,
   "projectFilePath": "/home/ali/Documents/GitHub/reactivities/Persistance/Persistance.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,9 @@
     "/home/ali/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/home/ali/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.4/microsoft.aspnetcore.cryptography.internal.6.0.4.nupkg.sha512",
+    "/home/ali/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.4/microsoft.aspnetcore.cryptography.keyderivation.6.0.4.nupkg.sha512",
+    "/home/ali/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/6.0.4/microsoft.aspnetcore.identity.entityframeworkcore.6.0.4.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -28,6 +31,8 @@
     "/home/ali/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/ali/.nuget/packages/microsoft.extensions.identity.core/6.0.4/microsoft.extensions.identity.core.6.0.4.nupkg.sha512",
+    "/home/ali/.nuget/packages/microsoft.extensions.identity.stores/6.0.4/microsoft.extensions.identity.stores.6.0.4.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/home/ali/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",

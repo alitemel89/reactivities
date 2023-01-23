@@ -98,3 +98,8 @@
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/FluentValidation.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
