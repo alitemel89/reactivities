@@ -103,3 +103,5 @@
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
 /home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/ali/Documents/GitHub/reactivities/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
