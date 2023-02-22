@@ -6,7 +6,7 @@ using Domain;
 using Microsoft.AspNetCore.Identity;
 using Persistance;
 
-namespace Persistence
+namespace Persistance
 {
     public class Seed
     {
