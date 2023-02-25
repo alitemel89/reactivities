@@ -1606,6 +1606,19 @@
           "bin/placeholder/Domain.dll": {}
         }
       },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      },
       "Persistance/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -4293,6 +4306,11 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
     "Persistance/1.0.0": {
       "type": "project",
       "path": "../Persistance/Persistance.csproj",
@@ -4306,6 +4324,7 @@
       "FluentValidation >= 11.4.0",
       "FluentValidation.AspNetCore >= 11.2.2",
       "FluentValidation.DependencyInjectionExtensions >= 11.4.0",
+      "Infrastructure >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.4",
@@ -4344,6 +4363,9 @@
           "projectReferences": {
             "/home/ali/Documents/GitHub/reactivities/Application/Application.csproj": {
               "projectPath": "/home/ali/Documents/GitHub/reactivities/Application/Application.csproj"
+            },
+            "/home/ali/Documents/GitHub/reactivities/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/home/ali/Documents/GitHub/reactivities/Infrastructure/Infrastructure.csproj"
             }
           }
         }
