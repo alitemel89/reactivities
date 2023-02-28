@@ -15,9 +15,6 @@ namespace Application.Activities
     {
         public class Query : IRequest<Result<List<ActivityDto>>>
         {
-            public class Handler
-            {
-            }
         }
     }
 
@@ -38,7 +35,6 @@ namespace Application.Activities
             var activities = await _context.Activities
             .ProjectTo<ActivityDto>(_mapper.ConfigurationProvider)
             .ToListAsync(cancellationToken);
-
 
             return Result<List<ActivityDto>>.Success(activities);
         }

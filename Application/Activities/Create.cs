@@ -52,7 +52,8 @@ namespace Application.Activities
                     Activity = request.Activity,
                     IsHost = true
                 };
-
+                request.Activity.Attendees.Add(attendee);
+                
                 _context.Activities.Add(request.Activity);
 
                 var result = await _context.SaveChangesAsync() > 0;

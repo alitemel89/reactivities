@@ -41,11 +41,6 @@ namespace Application.Activities
 
                 return Result<ActivityDto>.Success(activity);
             }
-
-            Task<Result<ActivityDto>> IRequestHandler<Query, Result<ActivityDto>>.Handle(Query request, CancellationToken cancellationToken)
-            {
-                throw new NotImplementedException();
-            }
         }
     }
 }
